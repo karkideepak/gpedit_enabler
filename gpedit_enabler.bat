@@ -1,3 +1,4 @@
+# Local Group Policy Editor (gpedit.msc) lets you control many Windows settings for users and the computer without editing the registry manually.
 "Run this file [gpedit_enabler.bat] as Administrator"
 
 
